@@ -95,7 +95,7 @@ h1 {
   background-color: rgb(214, 144, 214);
   padding: 20px;
   margin: 0;
-  border-radius: 10px;
+
 }
 button {
   cursor: pointer;
@@ -111,7 +111,7 @@ button {
   &:hover {
     color: white; // Use color1
     background-color: #d74b76;
-    transform: scale(1.2);
+    transform: scale(1.1);
   }
 }
 

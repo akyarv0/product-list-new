@@ -2,6 +2,8 @@ import React from 'react';
 
 import { categories } from '../../helper/data';
 function Header({ clickChange }) {
+
+
   return (
     <div>
       <h1>Product List</h1>

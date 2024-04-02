@@ -3,6 +3,7 @@
   align-items: center;
   justify-content: center;
   gap: 2rem;
+  flex-direction: column;
   flex-wrap: wrap;
   gap: 2rem;
 }
@@ -89,4 +90,8 @@ button:hover {
   color: white;
   background-color: #D74B76;
   transform: scale(1.2);
-}/*# sourceMappingURL=ProductCard.css.map */
+}
+
+
+
+
